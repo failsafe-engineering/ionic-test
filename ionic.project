@@ -1,9 +1,4 @@
 {
-  "gulpStartupTasks": [
-    "jade",
-    "sass",
-    "watch"
-  ],
   "name": "todo",
   "app_id": ""
 }
